@@ -1,3 +1,4 @@
+
 <h2 align="center" style="margin-left: 15px;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+am+Hriday+Adhikari;Programmer; Designer; Photographer;Tech Enthusias" alt="Typing SVG" /></a>
 </h2>
@@ -28,4 +29,4 @@
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rahulkarmakar2023cse/hridayadhikari/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hridayadhikari/hridayadhikari/output/snake.svg" alt="Snake animation" />
