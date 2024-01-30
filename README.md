@@ -3,14 +3,14 @@
 </h2>
 
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-##
+
 
 <div align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridayadhikari &theme=darcula" alt="GitHub Profile Summary Card" width="128" height="128">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hridayadhikari &theme=darcula" alt="GitHub Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hridayadhikari&theme=darcula" alt="GitHub Profile Summary Card">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hridayadhikari &theme=darcula" alt="GitHub Stats" width="128" height="128">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hridayadhikari&theme=darcula" alt="GitHub Profile Summary Card" width="128" height="128">
 </div>
-##
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hridayadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hridayadhikari" height="30" width="40" /></a>
