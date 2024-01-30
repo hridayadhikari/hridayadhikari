@@ -5,11 +5,7 @@
 <img align="center" alt="Coding"  src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hridayadhikari&theme=darcula" alt="GitHub Profile Summary Card" >
 
-  
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
