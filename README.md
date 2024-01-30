@@ -6,10 +6,11 @@
 
 
 <div align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridayadhikari &theme=darcula" alt="GitHub Profile Summary Card" width="128" height="128">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hridayadhikari &theme=darcula" alt="GitHub Stats" width="128" height="128">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hridayadhikari&theme=darcula" alt="GitHub Profile Summary Card" width="128" height="128">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridayadhikari&theme=darcula" alt="GitHub Profile Summary Card" width="300">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hridayadhikari&theme=darcula" alt="GitHub Stats" width="300">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hridayadhikari&theme=darcula" alt="GitHub Profile Summary Card" width="300">
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
