@@ -25,3 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rahulkarmakar2023cse/hridayadhikari/output/snake.svg" alt="Snake animation" />
