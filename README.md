@@ -6,7 +6,8 @@
 
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hridayadhikari&theme=darcula" alt="GitHub Stats" width="300">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hridayadhikari&theme=darcula" alt="GitHub Profile Summary Card" >
+
   
 </div>
 
