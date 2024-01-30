@@ -9,7 +9,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hridayadhikari&theme=darcula" alt="GitHub Profile Summary Card">
 </div>
 ##
-<p align="left"> <a href="https://twitter.com/hridayadhikari" target="blank"><img src="https://img.shields.io/twitter/follow/hridayadhikari?logo=twitter&style=for-the-badge" alt="hridayadhikari" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
