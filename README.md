@@ -4,11 +4,11 @@
 
 
 ```text
-hriday@github
+hridayadhikari@github
 ────────────────────────────────────────────────────────────
 
  OS          : Windows 11 Home 64-bit
- Uptime      : 20+ years of curiosity
+ Uptime      : 22+ years of curiosity
  Role        : Software Engineer | Designer | Photographer
  Education   : B.Tech CSE (2026)
                Techno College of Engineering Agartala
