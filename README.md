@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="58%" valign="top">
+
 
 ```text
 hriday@github
@@ -70,6 +70,6 @@ hriday@github
 
 ```
 
-</td>
+
 </tr>
 </table>
