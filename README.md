@@ -53,27 +53,25 @@ hriday@github
 
 ────────────────────────────────────────────────────────────
 
- GitHub Stats
-────────────────────────────────────────────
+ ## 📊 GitHub Statistics
 
- Repositories    : 32
- Stars           : 1
- Followers       : 96
+<div align="center">
 
- Commits         : 116
- Pull Requests   : 0
- Issues          : 1
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=hridayadhikari&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
- Total Contribs  : 171
- Current Streak  : 1 day
- Best Streak     : 3 days
+<img height="170" src="https://streak-stats.demolab.com?user=hridayadhikari&theme=github-dark-blue&hide_border=true"/>
 
- Top Languages   : CSS (52.61%)
-                   Blade (19.76%)
-                   PHP (12.41%)
-                   Hack (6.76%)
-                   SCSS (5.59%)
-                   JavaScript (2.87%)
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hridayadhikari&layout=compact&theme=github_dark&hide_border=true&count_private=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=hridayadhikari&style=for-the-badge&color=blue)
+
+</div>
 
 ```
 
