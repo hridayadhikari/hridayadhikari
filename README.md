@@ -54,7 +54,7 @@ hriday@github
 ────────────────────────────────────────────────────────────
 
  ## 📊 GitHub Statistics
-
+```
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=hridayadhikari&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -73,7 +73,6 @@ hriday@github
 
 </div>
 
-```
 
 
 </tr>
