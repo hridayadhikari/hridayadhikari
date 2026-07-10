@@ -54,19 +54,26 @@ hriday@github
 ────────────────────────────────────────────────────────────
 
  GitHub Stats
+────────────────────────────────────────────
 
  Repositories    : 32
- Contributions   : 12
- Stars           : 78
+ Stars           : 1
  Followers       : 96
 
- Commits         : 1,248
- Pull Requests   : 18
- Issues          : 14
- Gists           : 06
+ Commits         : 116
+ Pull Requests   : 0
+ Issues          : 1
 
- Lines of Code   : 156,842
- Total Contribs  : 3,214+
+ Total Contribs  : 171
+ Current Streak  : 1 day
+ Best Streak     : 3 days
+
+ Top Languages   : CSS (52.61%)
+                   Blade (19.76%)
+                   PHP (12.41%)
+                   Hack (6.76%)
+                   SCSS (5.59%)
+                   JavaScript (2.87%)
 
 ```
 
