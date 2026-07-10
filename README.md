@@ -53,7 +53,7 @@ hridayadhikari@github
 
 ────────────────────────────────────────────────────────────
 
-GitHub Statistics
+
 ```
 <div align="center">
 
