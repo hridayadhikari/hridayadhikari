@@ -53,7 +53,7 @@ hriday@github
 
 ────────────────────────────────────────────────────────────
 
- ## 📊 GitHub Statistics
+GitHub Statistics
 ```
 <div align="center">
 
