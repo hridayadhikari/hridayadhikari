@@ -1,18 +1,5 @@
 <table>
 <tr>
-<td width="42%" valign="top">
-
-<img src="ascii-art.svg" width="100%" alt="ASCII Portrait" />
-
-```text
-// Code. Capture. Create.
-//
-// Building solutions,
-// capturing moments,
-// and creating impact.
-```
-
-</td>
 
 <td width="58%" valign="top">
 
